@@ -3,7 +3,7 @@
 
 ## Overview
 
-The `PRODIGY_CS_05_packet_sniffer` project is a Python-based packet sniffer tool that captures and analyzes network packets. It displays relevant information such as source and destination IP addresses, protocols, and payload data. This tool is intended for educational purposes to help understand network traffic and packet analysis.
+The `PRODIGY_CS_05` project is a Python-based packet sniffer tool that captures and analyzes network packets. It displays relevant information such as source and destination IP addresses, protocols, and payload data. This tool is intended for educational purposes to help understand network traffic and packet analysis.
 
 ## Features
 
