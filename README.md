@@ -23,13 +23,13 @@ The `PRODIGY_CS_05` project is a Python-based packet sniffer tool that captures 
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/pksooraj/PRODIGY_CS_05_packet_sniffer.git
+   git clone https://github.com/Fiiaaad/PRODIGY_CS_05.git
    ```
 
 2. **Navigate to the Project Directory**:
 
    ```bash
-   cd PRODIGY_CS_05_packet_sniffer
+   cd PRODIGY_CS_05
    ```
 
 3. **Install Required Python Packages**:
